@@ -14,7 +14,7 @@ const RouteConfig = () => {
         <Navbar />
         <Switch>
           <Route exact path="/" component={Home} />
-          <Route exact path="/about" component={About} />
+          <Route exact path="/about" component={About}  />
           <Route exact path="/product" component={Product} />
           <Route path="*" component={() => <h1>404 Page Not Found</h1>} />
         </Switch>
