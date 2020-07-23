@@ -38,4 +38,4 @@ jobs:
       run: npm install -g surge
     
     - name: deploying on surge
-      run: surge ./build react-box-manager.surge.sh --token ${{secrets.surge_token}}
+      run: surge ./build react-lamp-store.surge.sh --token ${{secrets.surge_token}}

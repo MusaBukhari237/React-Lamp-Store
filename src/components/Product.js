@@ -5,14 +5,18 @@ import { Link } from "react-router-dom";
 const Product = () => {
   return (
     <div>
-      <h1>Hello from Product</h1>
+      <h1 class="titlebar">Product</h1>
       <div className="productContainer">
         {Object.keys(Shoes).map((keyName) => {
           const shoe = Shoes[keyName];
           return (
-            <Link key={keyName} className="link" to={`/product/${keyName}`}>
-              <h2>{shoe.name}</h2>
-              <img src={shoe.img} alt="shoe-pair" height={150} />
+            <Link key={keyName} className="link">
+              <div class="box-title">
+              <h2 class="product-title">{shoe.name}</h2>
+              </div>
+              <div class="box-img">
+              <img class="product-img" src={shoe.img} alt="lamp"  />
+              </div>
             </Link>
           );
         })}
