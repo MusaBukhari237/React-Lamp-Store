@@ -3,31 +3,29 @@
     "name": "Milky Lamp",
     "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
     "description": "Hello this is musa"
-    
   },
 
   "Milky Lamp2": {
     "name": "Milky Lamp",
     "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
     "description": "Hello this is musa"
-    
   },
+
   "Milky Lamp3": {
     "name": "Milky Lamp",
     "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
     "description": "Hello this is musa"
-    
   },
+
   "Milky Lamp4": {
     "name": "Milky Lamp",
     "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
-    "description": "Hello this is musa"
-    
+    "description": "Hello this is musa" 
   },
+  
   "Milky Lamp5": {
     "name": "Milky Lamp",
     "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
     "description": "Hello this is musa"
-    
   }
 }
