@@ -1,22 +1,33 @@
 {
-  "ABRAHAN CUERO": {
-    "name": "ABRAHAN CUERO",
-    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg"
+  "Milky Lamp": {
+    "name": "Milky Lamp",
+    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
+    "description": "Hello this is musa"
+    
   },
-  "CAMBADOS CUERO": {
-    "name": "CAMBADOS CUERO",
-    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg"
+
+  "Milky Lamp2": {
+    "name": "Milky Lamp",
+    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
+    "description": "Hello this is musa"
+    
   },
-  "ABRAHAN NAVY": {
-    "name": "ABRAHAN NAVY",
-    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg"
+  "Milky Lamp3": {
+    "name": "Milky Lamp",
+    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
+    "description": "Hello this is musa"
+    
   },
-  "CRUZ COGNAC": {
-    "name": "CRUZ COGNAC",
-    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg"
+  "Milky Lamp": {
+    "name": "Milky Lamp",
+    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
+    "description": "Hello this is musa"
+    
   },
-  "ZALAMEA CUERO": {
-    "name": "ZALAMEA CUERO",
-    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg"
+  "Milky Lamp": {
+    "name": "Milky Lamp",
+    "img": "https://ammarbles.com/wp-content/uploads/2020/06/4.jpg",
+    "description": "Hello this is musa"
+    
   }
 }
