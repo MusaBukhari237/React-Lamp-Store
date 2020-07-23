@@ -70,6 +70,11 @@ body{
 
 }
 
+.menu-active{
+    color:rgb(180, 177, 177);
+
+}
+
 .titlebar{
   margin-top:20px;
 }
